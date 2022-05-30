@@ -2,198 +2,199 @@
 <scripts version="2.0">
 	<script>
 		<name>Check the disk freespace</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Check the disk freespace.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Clean Desk</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Clean Desk .cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Check all windows updates</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Check all windows updates.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Check the os build</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Check the os build.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect all computer infomration</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect all computer infomration .cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Check Windows Version</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Check Windows Version.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect the asset generation</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect the asset generation.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect Total Ram memory</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect Total Ram memory.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect all IP information</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect all IP information.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Clear DNS cache</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Clear DNS cache.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect DNS settings</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect DNS settings.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect proxy settings</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect proxy settings.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect VPN settings</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect VPN settings.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>NetworkOutputs-Source</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\NetworkOutputs-Source.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Reset Internet explorer settings</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Reset Internet explorer settings.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Update group policy</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Update group policy .cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect applied policies to the user</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect applied policies to the user.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect applied policies to the computer</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect applied policies to the computer.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect the Username and the Asset number</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect the Username and the Asset number .cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>true</autoexec>
-	</script>
-	<script>
-		<name>Clear the web credentials</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Clear the web credentials.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Checkpoint version</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Checkpoint version.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Collect the list of installed software</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Collect the list of installed software.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Get all the installed drivers</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Get all the installed drivers.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Delete Win 10 Teams App data</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Delete Win 10 Teams App data.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Open Outlook profiles</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Open Outlook profiles.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Open task manager</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Open task manager.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>Restart the computer</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\Restart the computer.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
-	<script>
-		<name>The computer boot time</name>
-		<file>C:\temp\UCLH_LogMeIn_Scripts-main\Source\The computer boot time.cmd</file>
-		<resource></resource>
-		<platforms>00000001</platforms>
-		<autoexec>false</autoexec>
-	</script>
+		<file>C:\temp\LogMeIn_Scripts-main\Source\Check the disk freespace.cmd</file
+		<resource>
+	</resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Clean Desk</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Clean Desk .cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Check all windows updates</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Check all windows updates.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Check the os build</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Check the os build.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect all computer infomration</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect all computer infomration .cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Check Windows Version</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Check Windows Version.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect the asset generation</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect the asset generation.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect Total Ram memory</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect Total Ram memory.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect all IP information</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect all IP information.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Clear DNS cache</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Clear DNS cache.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect DNS settings</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect DNS settings.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect proxy settings</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect proxy settings.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect VPN settings</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect VPN settings.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>NetworkOutputs-Source</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\NetworkOutputs-Source.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Reset Internet explorer settings</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Reset Internet explorer settings.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Update group policy</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Update group policy .cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect applied policies to the user</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect applied policies to the user.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect applied policies to the computer</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect applied policies to the computer.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect the Username and the Asset number</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect the Username and the Asset number .cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>true</autoexec>
+</script>
+<script>
+	<name>Clear the web credentials</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Clear the web credentials.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Checkpoint version</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Checkpoint version.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Collect the list of installed software</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Collect the list of installed software.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Get all the installed drivers</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Get all the installed drivers.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Delete Win 10 Teams App data</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Delete Win 10 Teams App data.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Open Outlook profiles</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Open Outlook profiles.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Open task manager</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Open task manager.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>Restart the computer</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\Restart the computer.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
+<script>
+	<name>The computer boot time</name>
+	<file>C:\temp\LogMeIn_Scripts-main\Source\The computer boot time.cmd</file>
+	<resource></resource>
+	<platforms>00000001</platforms>
+	<autoexec>false</autoexec>
+</script>
 </scripts>
